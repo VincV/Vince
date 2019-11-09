@@ -1,0 +1,102 @@
+/* myStyle.css */
+img {
+  height: 25px;
+  width: 25px;
+}
+h4 {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  font-size: 20px;
+  color: yellow;
+  font-style: italic;
+}
+h1 {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 55px;
+  margin-top: 33px;
+  }
+body {
+  background-image: url("https://i.pinimg.com/736x/28/35/b4/2835b407e33b49eb7062756eb93cef75.jpg");
+  background-size: 1920px 1080px;
+}
+button {
+  border-radius: "10px";
+  border: none;
+  color: yellow;
+  background-color: transparent;
+  text-align: center;
+  margin-left: 95px;
+  margin-right: 95px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 18px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+  .buttonLeft {
+  margin-left: 90px;  
+  }
+  .buttonRight {
+    margin-right: 60px;
+  }
+  .info {
+	  color: yellow;
+	  text-align: center;
+  }
+  .description {
+	  display: grid;
+	  grid-template-columns: 35% 55% 10%;
+  }
+  .players {
+	  color: yellow;
+	  text-align: center;
+  }
+  .minecr {
+	  color: yellow;
+	  text-align: center;
+  }
+  .spelers {
+	  text-align: center;
+	  font-size: 20px;
+  }
+  .socialMedia {
+	  margin-top: 30px;
+  }
+  .facebook {
+	  color: blue;
+	  text-decoration: underline;
+	  text-decoration-color: blue;
+  }
+  .twitter {
+	  color: cyan;
+	  text-decoration: underline;
+	  text-decoration-color: cyan;
+  }
+  .instagram {
+	  color: deepPink;
+	  text-decoration: underline;
+	  text-decoration-color: deepPink;
+  }
+  .discord {
+	  color: blueViolet;
+	  text-decoration: underline;
+	  text-decoration-color: blueViolet;
+  }
+  .snapchat {
+	  color: gold;
+	  text-decoration: underline;
+	  text-decoration-color: gold;
+  }
+  .tinder {
+	  color: red;
+	  text-decoration: underline;
+	  text-decoration-color: red;
+  }
+  .linkedin {
+	  color: dodgerBlue;
+	  text-decoration: underline;
+	  text-decoration-color: dodgerBlue;
+  }
